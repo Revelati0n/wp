@@ -1,1 +1,2 @@
 # wp
+wordpress-seo
