@@ -1,4 +1,4 @@
-# wp
-#wordpress-seo
-#members
-#simple-membership
+## Wordpress
+* Profile
+* MainSlide
+
